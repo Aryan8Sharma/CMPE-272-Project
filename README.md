@@ -1,4 +1,4 @@
-# Project Name: AI-Powered Enterprise Document Summarizer
+#AI-Powered Enterprise Document Summarizer
 ![AI-Powered Notes Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VkYnplZmxqNmxpcW8xajc0NjRxMTJza2dhMzhidzlrZWVscDNrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xonfOvQzN3eCNG/giphy.gif)
 
 ## Project Overview
