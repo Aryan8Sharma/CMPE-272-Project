@@ -1,5 +1,5 @@
 # Project Name: AI-Powered Class Notes Canvas
-![AI-Powered Notes Demo](./gif/https://giphy.com/explore/confetti-canvas)
+![AI-Powered Notes Demo](https://giphy.com/gifs/loop-eternal-3o85xonfOvQzN3eCNG)
 
 ## Project Overview
 This project aims to create an interactive canvas platform where users can upload class notes in PDF format, and the integrated AI will summarize the notes. The platform will also offer additional AI-powered features such as keyword extraction, sentiment analysis, topic clustering, and intelligent search functionality. The goal is to enhance the learning experience by making class notes more accessible and easier to comprehend.
