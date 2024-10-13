@@ -1,5 +1,6 @@
 # AI-Powered Enterprise Document Summarizer
-![AI-Powered Notes Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VkYnplZmxqNmxpcW8xajc0NjRxMTJza2dhMzhidzlrZWVscDNrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xonfOvQzN3eCNG/giphy.gif)
+![image](https://github.com/user-attachments/assets/aa901bc2-ada2-434e-92af-a276b77343d2)
+
 
 ## Project Overview
 This project aims to create an interactive canvas platform where users can upload class notes in PDF format, and the integrated AI will summarize the notes. The platform will also offer additional AI-powered features such as keyword extraction, sentiment analysis, topic clustering, and intelligent search functionality. The platform will leverage advanced Natural Language Processing (NLP) techniques to distill complex information into digestible insights, enhancing decision-making and operational efficiency. The goal is to enhance the learning experience by making class notes more accessible and easier to comprehend.
